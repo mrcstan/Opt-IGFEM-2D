@@ -1,0 +1,24 @@
+- careful when plotting G_history.fval as those later than parallelTwoAdjThree are multiplied 
+  by objScale/domainArea^(1/normp). Those before are not. 
+- 1/15 For the following simulations, SUPG may have been applied wrongly (when the flow rate in a channel is negative):
+i) parallelTwoAdjTwo
+ii) parallelTwoAdjThree
+iii) parallelTwoBounded
+iv) parallelStephenAdjOne_1sim1
+v) parallelTwoAdjInitBar_n_Config
+
+- 1/15 SUPG has been fixed
+
+- 1/16 made correction to polygon_area to give signed area
+
+- 1/16 manual scaling applied to objective function and area constraint
+
+- 1/16 parallelStephenAdjSqpOne and parallelStephenAdjSqpOne: tolcon=tolX=tolfun=1e-6. triangles are merged 
+
+- 1/18 impose constraint on distance between certain pairs of vertices
+
+- 1/19 Added extra side triangles that are allowed to move or stay fixed
+
+
+	   
+

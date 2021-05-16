@@ -1,0 +1,908 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 MAY 2021 21:49
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**User_manual.tex
+(./User_manual.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count87
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/chemarr.sty
+Package: chemarr 2016/05/16 v1.3 Arrows for chemical reactions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count105
+\c@subtable=\count106
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen129
+\extrarowheight=\dimen130
+\NC@list=\toks21
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(./User_manual.aux
+
+LaTeX Warning: Label `tab_generate_pareto_front_inputs1' multiply defined.
+
+
+LaTeX Warning: Label `tab_optimize_blocked_channels_inputs1' multiply defined.
+
+)
+\openout1 = `User_manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 26.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 26.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89pt
+* \textheight=556.47656pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen131
+\scratchbox=\box28
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen132
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks23
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 26.
+Package gensymb Info: Math companion symbols declared on input line 26.
+LaTeX Info: Redefining \degree on input line 26.
+LaTeX Info: Redefining \celsius on input line 26.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 26.
+LaTeX Info: Redefining \ohm on input line 26.
+Package gensymb Info: Using \textohm for \ohm on input line 26.
+Package gensymb Info: Using \textmu for \micro on input line 26.
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 2894) in paragraph at lines 142--145
+\OT1/cmr/m/n/10.95 file lo-cated in mx[]sensitivity. It is the re-spon-si-bil-i
+ty of the
+ []
+
+[2]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+Underfull \hbox (badness 2894) in paragraph at lines 228--231
+\OT1/cmr/m/n/10.95 file lo-cated in mx[]sensitivity. It is the re-spon-si-bil-i
+ty of the
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4
+
+] [5]
+Underfull \hbox (badness 2894) in paragraph at lines 316--319
+\OT1/cmr/m/n/10.95 file lo-cated in mx[]sensitivity. It is the re-spon-si-bil-i
+ty of the
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6] [7] [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
+[]|\OT1/cmr/m/n/10.95 Pre- and post-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <parallelTwo_Pmax30k_channel_0.eps>
+(epstopdf)                    date: 2016-01-28 18:33:58
+(epstopdf)                    size: 44393 bytes
+(epstopdf)             Output file: <parallelTwo_Pmax30k_channel_0-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-01-28 18:45:08
+(epstopdf)                    size: 12102 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwo_Pmax30k_channe
+l_0-eps-converted-to.pdf parallelTwo_Pmax30k_channel_0.eps>
+(epstopdf)             \includegraphics on input line 516.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwo_Pmax30k_channel_0-eps-converted-to.pdf, id=44, 466.74374pt x 661.4
+7125pt>
+File: parallelTwo_Pmax30k_channel_0-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use parallelTwo_Pmax30k_channel_0-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwo_Pmax30k_channel_0-eps-converted-to.pdf use
+d on input line 516.
+(pdftex.def)             Requested size: 101.17645pt x 143.38435pt.
+Package epstopdf Info: Source file: <parallelTwo_Pmax30k_channel_8.eps>
+(epstopdf)                    date: 2016-01-28 18:34:38
+(epstopdf)                    size: 44538 bytes
+(epstopdf)             Output file: <parallelTwo_Pmax30k_channel_8-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-01-28 18:45:08
+(epstopdf)                    size: 12057 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwo_Pmax30k_channe
+l_8-eps-converted-to.pdf parallelTwo_Pmax30k_channel_8.eps>
+(epstopdf)             \includegraphics on input line 520.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwo_Pmax30k_channel_8-eps-converted-to.pdf, id=45, 466.74374pt x 661.4
+7125pt>
+File: parallelTwo_Pmax30k_channel_8-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use parallelTwo_Pmax30k_channel_8-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwo_Pmax30k_channel_8-eps-converted-to.pdf use
+d on input line 520.
+(pdftex.def)             Requested size: 101.17645pt x 143.38435pt.
+Package epstopdf Info: Source file: <parallelTwo_Pmax30k_channel_15.eps>
+(epstopdf)                    date: 2016-01-28 18:35:06
+(epstopdf)                    size: 45406 bytes
+(epstopdf)             Output file: <parallelTwo_Pmax30k_channel_15-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2016-01-28 18:45:23
+(epstopdf)                    size: 12439 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwo_Pmax30k_channe
+l_15-eps-converted-to.pdf parallelTwo_Pmax30k_channel_15.eps>
+(epstopdf)             \includegraphics on input line 524.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwo_Pmax30k_channel_15-eps-converted-to.pdf, id=46, 466.74374pt x 661.
+47125pt>
+File: parallelTwo_Pmax30k_channel_15-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use parallelTwo_Pmax30k_channel_15-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwo_Pmax30k_channel_15-eps-converted-to.pdf us
+ed on input line 524.
+(pdftex.def)             Requested size: 101.17645pt x 143.38435pt.
+Package epstopdf Info: Source file: <parallelTwo_Pmax30k_channel_30.eps>
+(epstopdf)                    date: 2016-01-28 18:35:48
+(epstopdf)                    size: 46720 bytes
+(epstopdf)             Output file: <parallelTwo_Pmax30k_channel_30-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2016-01-28 18:45:23
+(epstopdf)                    size: 13106 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwo_Pmax30k_channe
+l_30-eps-converted-to.pdf parallelTwo_Pmax30k_channel_30.eps>
+(epstopdf)             \includegraphics on input line 528.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwo_Pmax30k_channel_30-eps-converted-to.pdf, id=47, 466.74374pt x 661.
+47125pt>
+File: parallelTwo_Pmax30k_channel_30-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use parallelTwo_Pmax30k_channel_30-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwo_Pmax30k_channel_30-eps-converted-to.pdf us
+ed on input line 528.
+(pdftex.def)             Requested size: 101.17645pt x 143.38435pt.
+
+<parallelTwo_T_0.png, id=48, 593.21625pt x 591.20876pt>
+File: parallelTwo_T_0.png Graphic file (type png)
+
+<use parallelTwo_T_0.png>
+Package pdftex.def Info: parallelTwo_T_0.png used on input line 534.
+(pdftex.def)             Requested size: 177.06458pt x 176.46188pt.
+
+<parallelTwo_T_30.png, id=49, 593.21625pt x 591.20876pt>
+File: parallelTwo_T_30.png Graphic file (type png)
+
+<use parallelTwo_T_30.png>
+Package pdftex.def Info: parallelTwo_T_30.png used on input line 538.
+(pdftex.def)             Requested size: 177.06458pt x 176.46188pt.
+Package epstopdf Info: Source file: <parallelTwo_Pmax30k_history.eps>
+(epstopdf)                    date: 2016-01-28 18:38:28
+(epstopdf)                    size: 31221 bytes
+(epstopdf)             Output file: <parallelTwo_Pmax30k_history-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-01-28 18:52:40
+(epstopdf)                    size: 8050 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwo_Pmax30k_histor
+y-eps-converted-to.pdf parallelTwo_Pmax30k_history.eps>
+(epstopdf)             \includegraphics on input line 544.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwo_Pmax30k_history-eps-converted-to.pdf, id=50, 1029.8475pt x 617.306
+24pt>
+File: parallelTwo_Pmax30k_history-eps-converted-to.pdf Graphic file (type pdf)
+ <use parallelTwo_Pmax30k_history-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwo_Pmax30k_history-eps-converted-to.pdf used 
+on input line 544.
+(pdftex.def)             Requested size: 227.64894pt x 136.4483pt.
+Package epstopdf Info: Source file: <parallelTwo_Pmax30k_pressure_history.eps>
+(epstopdf)                    date: 2016-01-28 18:38:56
+(epstopdf)                    size: 31328 bytes
+(epstopdf)             Output file: <parallelTwo_Pmax30k_pressure_history-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2016-01-28 18:49:25
+(epstopdf)                    size: 7710 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwo_Pmax30k_pressu
+re_history-eps-converted-to.pdf parallelTwo_Pmax30k_pressure_history.eps>
+(epstopdf)             \includegraphics on input line 548.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwo_Pmax30k_pressure_history-eps-converted-to.pdf, id=51, 1015.795pt x
+ 646.415pt>
+File: parallelTwo_Pmax30k_pressure_history-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use parallelTwo_Pmax30k_pressure_history-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwo_Pmax30k_pressure_history-eps-converted-to.
+pdf used on input line 548.
+(pdftex.def)             Requested size: 202.3529pt x 128.7678pt.
+
+
+LaTeX Warning: Float too large for page by 6.61798pt on input line 553.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11] [12] [13 <./parallelTwo_Pmax30k_channel_0-eps-converted-to.pdf> <./paralle
+lTwo_Pmax30k_channel_8-eps-converted-to.pdf> <./parallelTwo_Pmax30k_channel_15-
+eps-converted-to.pdf> <./parallelTwo_Pmax30k_channel_30-eps-converted-to.pdf> <
+./parallelTwo_T_0.png (PNG copy)> <./parallelTwo_T_30.png (PNG copy)> <./parall
+elTwo_Pmax30k_history-eps-converted-to.pdf> <./parallelTwo_Pmax30k_pressure_his
+tory-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <parallelTwoPareto_sim0_minT8.eps>
+(epstopdf)                    date: 2015-07-18 13:36:56
+(epstopdf)                    size: 31153 bytes
+(epstopdf)             Output file: <parallelTwoPareto_sim0_minT8-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-01-28 19:41:26
+(epstopdf)                    size: 8105 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwoPareto_sim0_min
+T8-eps-converted-to.pdf parallelTwoPareto_sim0_minT8.eps>
+(epstopdf)             \includegraphics on input line 617.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwoPareto_sim0_minT8-eps-converted-to.pdf, id=97, 286.06876pt x 370.38
+374pt>
+File: parallelTwoPareto_sim0_minT8-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use parallelTwoPareto_sim0_minT8-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwoPareto_sim0_minT8-eps-converted-to.pdf used
+ on input line 617.
+(pdftex.def)             Requested size: 101.17645pt x 130.99828pt.
+Package epstopdf Info: Source file: <parallelTwoPareto_sim12.eps>
+(epstopdf)                    date: 2015-11-21 15:46:01
+(epstopdf)                    size: 163226 bytes
+(epstopdf)             Output file: <parallelTwoPareto_sim12-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-01-28 19:41:26
+(epstopdf)                    size: 43881 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwoPareto_sim12-ep
+s-converted-to.pdf parallelTwoPareto_sim12.eps>
+(epstopdf)             \includegraphics on input line 621.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwoPareto_sim12-eps-converted-to.pdf, id=98, 410.53375pt x 529.98pt>
+File: parallelTwoPareto_sim12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use parallelTwoPareto_sim12-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwoPareto_sim12-eps-converted-to.pdf used on i
+nput line 621.
+(pdftex.def)             Requested size: 101.17645pt x 130.61043pt.
+Package epstopdf Info: Source file: <parallelTwoPareto_sim25.eps>
+(epstopdf)                    date: 2015-11-21 15:47:40
+(epstopdf)                    size: 114577 bytes
+(epstopdf)             Output file: <parallelTwoPareto_sim25-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-01-28 19:41:27
+(epstopdf)                    size: 30338 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwoPareto_sim25-ep
+s-converted-to.pdf parallelTwoPareto_sim25.eps>
+(epstopdf)             \includegraphics on input line 625.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwoPareto_sim25-eps-converted-to.pdf, id=99, 410.53375pt x 529.98pt>
+File: parallelTwoPareto_sim25-eps-converted-to.pdf Graphic file (type pdf)
+
+<use parallelTwoPareto_sim25-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwoPareto_sim25-eps-converted-to.pdf used on i
+nput line 625.
+(pdftex.def)             Requested size: 101.17645pt x 130.61043pt.
+Package epstopdf Info: Source file: <parallelTwoPareto_sim60_minP_Aminp018.eps>
+
+(epstopdf)                    date: 2016-01-28 19:54:37
+(epstopdf)                    size: 56201 bytes
+(epstopdf)             Output file: <parallelTwoPareto_sim60_minP_Aminp018-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2016-01-28 19:56:44
+(epstopdf)                    size: 13344 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwoPareto_sim60_mi
+nP_Aminp018-eps-converted-to.pdf parallelTwoPareto_sim60_minP_Aminp018.eps>
+(epstopdf)             \includegraphics on input line 629.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwoPareto_sim60_minP_Aminp018-eps-converted-to.pdf, id=100, 410.53375p
+t x 529.98pt>
+File: parallelTwoPareto_sim60_minP_Aminp018-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use parallelTwoPareto_sim60_minP_Aminp018-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwoPareto_sim60_minP_Aminp018-eps-converted-to
+.pdf used on input line 629.
+(pdftex.def)             Requested size: 101.17645pt x 130.61043pt.
+Package epstopdf Info: Source file: <parallelTwoPareto_60pts.eps>
+(epstopdf)                    date: 2016-01-28 19:24:13
+(epstopdf)                    size: 64093 bytes
+(epstopdf)             Output file: <parallelTwoPareto_60pts-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-01-28 19:26:37
+(epstopdf)                    size: 13749 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallelTwoPareto_60pts-ep
+s-converted-to.pdf parallelTwoPareto_60pts.eps>
+(epstopdf)             \includegraphics on input line 634.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallelTwoPareto_60pts-eps-converted-to.pdf, id=101, 1316.92pt x 700.6175pt>
+File: parallelTwoPareto_60pts-eps-converted-to.pdf Graphic file (type pdf)
+
+<use parallelTwoPareto_60pts-eps-converted-to.pdf>
+Package pdftex.def Info: parallelTwoPareto_60pts-eps-converted-to.pdf used on i
+nput line 634.
+(pdftex.def)             Requested size: 404.71353pt x 215.30763pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14
+
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <parallel2x2_channel_0.eps>
+(epstopdf)                    date: 2016-01-28 20:24:42
+(epstopdf)                    size: 295339 bytes
+(epstopdf)             Output file: <parallel2x2_channel_0-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-01-28 20:28:37
+(epstopdf)                    size: 70246 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallel2x2_channel_0-eps-
+converted-to.pdf parallel2x2_channel_0.eps>
+(epstopdf)             \includegraphics on input line 708.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallel2x2_channel_0-eps-converted-to.pdf, id=105, 617.30624pt x 663.47874pt>
+File: parallel2x2_channel_0-eps-converted-to.pdf Graphic file (type pdf)
+<use parallel2x2_channel_0-eps-converted-to.pdf>
+Package pdftex.def Info: parallel2x2_channel_0-eps-converted-to.pdf used on inp
+ut line 708.
+(pdftex.def)             Requested size: 101.17645pt x 108.74034pt.
+Package epstopdf Info: Source file: <parallel2x2_channel_5.eps>
+(epstopdf)                    date: 2016-01-28 20:25:45
+(epstopdf)                    size: 178430 bytes
+(epstopdf)             Output file: <parallel2x2_channel_5-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-01-28 20:28:37
+(epstopdf)                    size: 47331 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallel2x2_channel_5-eps-
+converted-to.pdf parallel2x2_channel_5.eps>
+(epstopdf)             \includegraphics on input line 712.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallel2x2_channel_5-eps-converted-to.pdf, id=106, 617.30624pt x 663.47874pt>
+File: parallel2x2_channel_5-eps-converted-to.pdf Graphic file (type pdf)
+<use parallel2x2_channel_5-eps-converted-to.pdf>
+Package pdftex.def Info: parallel2x2_channel_5-eps-converted-to.pdf used on inp
+ut line 712.
+(pdftex.def)             Requested size: 101.17645pt x 108.74034pt.
+Package epstopdf Info: Source file: <parallel2x2_channel_11.eps>
+(epstopdf)                    date: 2016-01-28 20:26:46
+(epstopdf)                    size: 242038 bytes
+(epstopdf)             Output file: <parallel2x2_channel_11-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-01-28 20:28:38
+(epstopdf)                    size: 67404 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallel2x2_channel_11-eps
+-converted-to.pdf parallel2x2_channel_11.eps>
+(epstopdf)             \includegraphics on input line 716.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallel2x2_channel_11-eps-converted-to.pdf, id=107, 617.30624pt x 663.47874pt
+>
+File: parallel2x2_channel_11-eps-converted-to.pdf Graphic file (type pdf)
+ <use parallel2x2_channel_11-eps-converted-to.pdf>
+Package pdftex.def Info: parallel2x2_channel_11-eps-converted-to.pdf used on in
+put line 716.
+(pdftex.def)             Requested size: 101.17645pt x 108.74034pt.
+Package epstopdf Info: Source file: <parallel2x2_channel_23.eps>
+(epstopdf)                    date: 2016-01-28 20:27:15
+(epstopdf)                    size: 248677 bytes
+(epstopdf)             Output file: <parallel2x2_channel_23-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2016-01-28 20:28:38
+(epstopdf)                    size: 67964 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallel2x2_channel_23-eps
+-converted-to.pdf parallel2x2_channel_23.eps>
+(epstopdf)             \includegraphics on input line 720.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallel2x2_channel_23-eps-converted-to.pdf, id=108, 617.30624pt x 663.47874pt
+>
+File: parallel2x2_channel_23-eps-converted-to.pdf Graphic file (type pdf)
+ <use parallel2x2_channel_23-eps-converted-to.pdf>
+Package pdftex.def Info: parallel2x2_channel_23-eps-converted-to.pdf used on in
+put line 720.
+(pdftex.def)             Requested size: 101.17645pt x 108.74034pt.
+
+<parallel2x2_T_0.png, id=109, 751.80875pt x 591.20876pt>
+File: parallel2x2_T_0.png Graphic file (type png)
+
+<use parallel2x2_T_0.png>
+Package pdftex.def Info: parallel2x2_T_0.png used on input line 725.
+(pdftex.def)             Requested size: 202.3529pt x 159.1233pt.
+
+<parallel2x2_T_23.png, id=110, 751.80875pt x 591.20876pt>
+File: parallel2x2_T_23.png Graphic file (type png)
+
+<use parallel2x2_T_23.png>
+Package pdftex.def Info: parallel2x2_T_23.png used on input line 729.
+(pdftex.def)             Requested size: 202.3529pt x 159.1233pt.
+Package epstopdf Info: Source file: <parallel2x2_history.eps>
+(epstopdf)                    date: 2016-01-28 20:34:46
+(epstopdf)                    size: 28923 bytes
+(epstopdf)             Output file: <parallel2x2_history-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-28 20:35:49
+(epstopdf)                    size: 7227 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallel2x2_history-eps-co
+nverted-to.pdf parallel2x2_history.eps>
+(epstopdf)             \includegraphics on input line 734.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallel2x2_history-eps-converted-to.pdf, id=111, 1019.81pt x 662.475pt>
+File: parallel2x2_history-eps-converted-to.pdf Graphic file (type pdf)
+
+<use parallel2x2_history-eps-converted-to.pdf>
+Package pdftex.def Info: parallel2x2_history-eps-converted-to.pdf used on input
+ line 734.
+(pdftex.def)             Requested size: 207.41675pt x 134.73674pt.
+Package epstopdf Info: Source file: <parallel2x2_pressure_history.eps>
+(epstopdf)                    date: 2016-01-28 20:34:14
+(epstopdf)                    size: 30072 bytes
+(epstopdf)             Output file: <parallel2x2_pressure_history-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-01-28 20:35:49
+(epstopdf)                    size: 7330 bytes
+(epstopdf)             Command: <repstopdf --outfile=parallel2x2_pressure_histo
+ry-eps-converted-to.pdf parallel2x2_pressure_history.eps>
+(epstopdf)             \includegraphics on input line 738.
+Package epstopdf Info: Output file is already uptodate.
+
+<parallel2x2_pressure_history-eps-converted-to.pdf, id=112, 910.40125pt x 586.1
+9pt>
+File: parallel2x2_pressure_history-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use parallel2x2_pressure_history-eps-converted-to.pdf>
+Package pdftex.def Info: parallel2x2_pressure_history-eps-converted-to.pdf used
+ on input line 738.
+(pdftex.def)             Requested size: 212.47287pt x 136.80655pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./parallelTwoPareto_sim0_minT8-eps-converted-to.pdf> <./parallelTwoPareto_
+sim12-eps-converted-to.pdf> <./parallelTwoPareto_sim25-eps-converted-to.pdf> <.
+/parallelTwoPareto_sim60_minP_Aminp018-eps-converted-to.pdf> <./parallelTwoPare
+to_60pts-eps-converted-to.pdf>] [16] [17 <./parallel2x2_channel_0-eps-converted
+-to.pdf> <./parallel2x2_channel_5-eps-converted-to.pdf> <./parallel2x2_channel_
+11-eps-converted-to.pdf> <./parallel2x2_channel_23-eps-converted-to.pdf> <./par
+allel2x2_T_0.png (PNG copy)> <./parallel2x2_T_23.png (PNG copy)> <./parallel2x2
+_history-eps-converted-to.pdf> <./parallel2x2_pressure_history-eps-converted-to
+.pdf>] (./User_manual.bbl) [18
+
+] (./User_manual.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5148 strings out of 492995
+ 79112 string characters out of 6132704
+ 148818 words of memory out of 5000000
+ 8588 multiletter control sequences out of 15000+600000
+ 12913 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,13n,39p,714b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on User_manual.pdf (18 pages, 854657 bytes).
+PDF statistics:
+ 225 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+

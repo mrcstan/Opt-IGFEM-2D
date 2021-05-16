@@ -1,0 +1,13 @@
+Unexpected unknown exception from MEX file..
+
+Error in <a href="matlab:helpUtils.errorDocCallback('assemble_and_solve', '/Users/marcustan/GoogleDrive/IGFEM-Curves-2D/M_FEM/assemble_and_solve.m', 107)" style="font-weight:bold">assemble_and_solve</a> (<a href="matlab: opentoline('/Users/marcustan/GoogleDrive/IGFEM-Curves-2D/M_FEM/assemble_and_solve.m',107,0)">line 107</a>)
+            [KFF,KFP,KPF,KPP,PF,PP,dKFF] ...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('fem_n_sensitivity', '/Users/marcustan/GoogleDrive/Opt-IGFEM-2D/M_optimization/fem_n_sensitivity.m', 413)" style="font-weight:bold">fem_n_sensitivity</a> (<a href="matlab: opentoline('/Users/marcustan/GoogleDrive/Opt-IGFEM-2D/M_optimization/fem_n_sensitivity.m',413,0)">line 413</a>)
+    [UUR, ~,fGloInd,~,Kff,~,Jac] = assemble_and_solve(mesh,...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('@(delParams)fem_n_sensitivity(delParams,mesh,channels,femParams,sensitivity,1,false,false)', '', 0)" style="font-weight:bold">@(delParams)fem_n_sensitivity(delParams,mesh,channels,femParams,sensitivity,1,false,false)</a>
+
+
+Error in <a href="matlab:helpUtils.errorDocCallback('test_objective_derivative', '/Users/marcustan/GoogleDrive/Opt-IGFEM-2D/M_tests/test_objective_derivative.m', 182)" style="font-weight:bold">test_objective_derivative</a> (<a href="matlab: opentoline('/Users/marcustan/GoogleDrive/Opt-IGFEM-2D/M_tests/test_objective_derivative.m',182,0)">line 182</a>)
+[thetaOld,gradTheta] = costfun(xo);
