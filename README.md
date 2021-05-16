@@ -36,8 +36,9 @@ IGFEM-Curves-2D
 - M_preFEM
 - M_tests
 - mx_FEM
-NURBS
-- nurbs-toolbox
+
+nurbs-toolbox
+
 SISL
 - SISL-masters
 
